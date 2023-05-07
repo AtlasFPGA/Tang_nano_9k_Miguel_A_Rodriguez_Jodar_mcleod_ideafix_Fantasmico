@@ -1,0 +1,2 @@
+En esta carp4ta se alojan los pll nedesarios para obtener salida hdmi,
+tanto el 125Mhz del hdmi y el 25Mhz de la vga asociada a una pantalla de 640x480 de puntos en pantalla y frecuencia 60Hz.
