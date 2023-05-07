@@ -1,0 +1,1 @@
+Envoltorio HDMI con una profundidad de color 666, parametrizable y con audio pcm añadido.
